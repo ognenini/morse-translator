@@ -1,2 +1,4 @@
 # morse-translator
-A tool for translating strings into morse code.
+This is a tool for translating strings into morse code.
+It is written in Python 3.7.
+Enjoy!
